@@ -1,0 +1,16 @@
+{
+  "domain": "meater",
+  "name": "Meater",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/meater",
+  "requirements": [
+    "meater-python==0.0.2"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@Sotolotl"
+  ]
+}

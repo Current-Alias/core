@@ -286,6 +286,7 @@ homeassistant/components/mastodon/* @fabaff
 homeassistant/components/matrix/* @tinloaf
 homeassistant/components/mazda/* @bdr99
 homeassistant/components/mcp23017/* @jardiamj
+homeassistant/components/meater/* @Sotolotl
 homeassistant/components/media_source/* @hunterjm
 homeassistant/components/mediaroom/* @dgomes
 homeassistant/components/melcloud/* @vilppuvuorinen
