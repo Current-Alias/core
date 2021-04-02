@@ -6,10 +6,6 @@
   "requirements": [
     "meater-python==0.0.7"
   ],
-  "ssdp": [],
-  "zeroconf": [],
-  "homekit": {},
-  "dependencies": [],
   "codeowners": [
     "@Sotolotl"
   ]
